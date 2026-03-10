@@ -1,4 +1,4 @@
-# Educational Video Streaming Platform with Microservices architecture and full CI/CD Pipeline
+# Full Stack Microservices Learning Management System LMS video streaming with CI/CD with Microservices architecture and full CI/CD Pipeline
 
 ## Overview
 
