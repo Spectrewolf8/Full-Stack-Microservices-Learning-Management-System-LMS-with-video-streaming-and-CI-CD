@@ -1,4 +1,4 @@
-# Full Stack Microservices Learning Management System LMS video streaming with CI/CD with Microservices architecture and full CI/CD Pipeline
+# Full Stack Learning Management System LMS with video streaming and Microservices architecture with full CI/CD Pipeline
 
 ## Overview
 
